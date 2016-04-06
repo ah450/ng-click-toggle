@@ -1,0 +1,25 @@
+{
+  "name": "ng-click-toggle",
+  "homepage": "https://github.com/ah450/ng-click-toggle",
+  "authors": [
+    "Ahmed H. Ismail <ahm3d.hisham@gmail.com>"
+  ],
+  "description": "Directive that toggles classes on click",
+  "main": "click_toggle.js",
+  "moduleType": [],
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.3",
+    "jquery": "^2.2.3"
+  }
+}
